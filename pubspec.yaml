@@ -1,6 +1,6 @@
-name: coding_programming_tabview
+name: mad2_navbar
 description: TabView/NavigationBar for our FBLA Coding & Programming app submission.
-version: 1.0.2
+version: 1.0.3
 
 environment:
   sdk: ">=2.18.4 <3.0.0"
