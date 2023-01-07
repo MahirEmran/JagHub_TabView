@@ -3,6 +3,7 @@ import 'package:bottom_bar_with_sheet/bottom_bar_with_sheet.dart';
 import 'package:mad2_browsepage/browse_page.dart';
 import 'package:mad2_home/homepage.dart';
 import 'package:mad2_browsepage/browse_page.dart';
+import 'package:mad2_opportunities/opportunities_page.dart';
 import 'package:mad2_shop/shop_page.dart';
 
 class Navigation extends StatefulWidget {
@@ -60,7 +61,7 @@ class _NavigationState extends State<Navigation> {
             Container(
               child: ShopPage(),
             ),
-            Text("Hello"),
+            Container(child: OpportunitiesPage()),
           ],
         ),
         bottomNavigationBar: ClipRRect(
