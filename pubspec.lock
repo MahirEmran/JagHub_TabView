@@ -232,6 +232,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.5.1"
+  drop_shadow_image:
+    dependency: transitive
+    description:
+      name: drop_shadow_image
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.9.1"
   easy_debounce:
     dependency: transitive
     description:
@@ -575,7 +582,7 @@ packages:
       name: mad2_browsepage
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.9.5"
+    version: "2.0.2"
   mad2_db_dataobjects:
     dependency: transitive
     description:
@@ -583,20 +590,27 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.1"
+  mad2_groups:
+    dependency: transitive
+    description:
+      name: mad2_groups
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.3"
   mad2_home:
     dependency: "direct main"
     description:
       name: mad2_home
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.5"
+    version: "1.2.7"
   mad2_leaderboard:
     dependency: transitive
     description:
       name: mad2_leaderboard
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.4"
+    version: "1.4.4"
   mad2_login:
     dependency: transitive
     description:
@@ -807,6 +821,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.2.1"
+  random_string:
+    dependency: transitive
+    description:
+      name: random_string
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.3.1"
   rfc_6901:
     dependency: transitive
     description:
@@ -1135,5 +1156,5 @@ packages:
     source: hosted
     version: "3.1.1"
 sdks:
-  dart: ">=2.18.5 <3.0.0"
+  dart: ">=2.18.4 <3.0.0"
   flutter: ">=3.3.0"
